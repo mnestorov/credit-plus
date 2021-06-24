@@ -1,10 +1,16 @@
 # Credit Plus
 
+## Preview
+
+<p align="center">
+<img src="https://github.com/mnestorov/credit-plus/blob/procedural/screenshot.jpg" width="450">
+</p>
+
 ## How to run
 
 **Step 1**
 
-Download zip archive after click on green "Code" button, then Download ZIP.
+Download zip archive after click on green "Code" button, then "Download ZIP".
 
 **Step 2**
 
